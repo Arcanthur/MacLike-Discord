@@ -1,4 +1,4 @@
-/* DEFAULT CONFIG */
+ /* DEFAULT CONFIG */
 :root {
   --main-app-bg_light: rgba(238, 238, 238, 0.0);
   --main-app-bg_dark: rgba(16, 16, 16, 0.0);
@@ -10,7 +10,7 @@
 
   --glass-opacity_active: 24%;
   --glass-opacity_inactive: 100%;
-  --glass-blur-strength: 10px;
+  --glass-blur-strength: 2px;
   --glass-blur-saturation: 200%;
 
   --maclike-version_checker: true; /* Disable: false */

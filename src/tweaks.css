@@ -1,4 +1,4 @@
-@import url(https://raw.githubusercontent.com/syryz/MacLike-Discord/refs/heads/main/src/utils.css);
+@import url(https://raw.githubusercontent.com/Arcanthur/MacLike-Discord/refs/heads/main/src/utils.css);
 
 html.theme-dark, html.theme-ash, html.theme-onyx {
   :not(.platform-osx) > body::before {

@@ -1,7 +1,7 @@
 /* DEFAULT CONFIG */
 :root {
   --main-app-bg_light: rgba(238, 238, 238, 0.0);
-  --main-app-bg_dark: rgba(36, 36, 36, 0.0);
+  --main-app-bg_dark: rgba(16, 16, 16, 0.0);
 
   --window-button-style: 2; /* Recommended: 2 */
   --window-button-size: 13px;

@@ -8,7 +8,7 @@
 
   --enable-window-border: 1; /* Disable: 0 */
 
-  --glass-opacity_active: 64%;
+  --glass-opacity_active: 24%;
   --glass-opacity_inactive: 100%;
   --glass-blur-strength: 20px;
   --glass-blur-saturation: 200%;

@@ -10,7 +10,7 @@
 
   --glass-opacity_active: 24%;
   --glass-opacity_inactive: 100%;
-  --glass-blur-strength: 20px;
+  --glass-blur-strength: 10px;
   --glass-blur-saturation: 200%;
 
   --maclike-version_checker: true; /* Disable: false */

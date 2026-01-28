@@ -1,4 +1,4 @@
-@import url(https://github.com/Arcanthur/MacLike-Discord/blob/main/src/utils.css);
+@import url(https://raw.githubusercontent.com/Arcanthur/MacLike-Discord/blob/main/src/utils.css);
 
 html {
   --glass-opacity: var(--glass-opacity_inactive);

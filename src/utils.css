@@ -18,7 +18,7 @@
 }
 /* VERSION CHECKER */
 div[class^="bar"] > [class^="title"] > div::before {
-  content: "Outdated MacLike version! Update your MacLike.theme.css\AYour version: " var(--maclike-version_current) "\A Latest version: " var(--maclike-version_latest) "\Ahttps://github.com/syryz/MacLike-Discord/blob/main/MacLike.theme.css";
+  content: "Outdated MacLike version! Update your MacLike.theme.css\AYour version: " var(--maclike-version_current) "\A Latest version: " var(--maclike-version_latest) "\Ahttps://github.com/Arcanthur/MacLike-Discord/blob/main/MacLike.theme.css";
   position: absolute;
   top: 0;
   color: white;
